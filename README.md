@@ -13,7 +13,7 @@ About the DC Legal Hackers GitHub organization:
     * [Our](https://github.com/our/)
     * [PDF Liberation](https://github.com/pdfliberation)
     * [United States](https://github.com/unitedstates)
- 3. For any questions about the org, feel free to reach out to :@rebeccawilliams:, :@alandelevie:, or :@jamesondempsey: or submit an issue or pull request where appropriate. :thumbsup: Happy coding! 
+ 3. For any questions about the org, feel free to reach out to [Alan deLevie](https://github.com/adelevie), [Jameson Dempsey](https://github.com/jamesondempsey), and [Rebecca Williams](https://github.com/rebeccawilliams), or file an issue or submit pull request where appropriate. :thumbsup: Happy coding! 
 
 Learn about using Git & GitHub  
  
