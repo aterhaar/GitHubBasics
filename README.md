@@ -1,6 +1,5 @@
 GitHub Basics of DC Legal Hackers
 ============
-_Are you new to GitHub? Here are some basics about Git, GitHub, and the DC Legal Hackers organization._
 
 Join the DC Legal Hackers GitHub organization by commenting [here](https://github.com/dclegalhackers/GitHubBasics/issues/1). 
 
