@@ -16,7 +16,7 @@ GitHub Basics of DC Legal Hackers
     * [United States](https://github.com/unitedstates)
  3. For any questions about the org, feel free to reach out to [Alan deLevie](https://github.com/adelevie), [Jameson Dempsey](https://github.com/jamesondempsey), and [Rebecca Williams](https://github.com/rebeccawilliams), or file an issue or submit pull request where appropriate. :thumbsup: Happy coding! 
 
-####Learn about using Git & GitHub  
+####Learn how to use GitHub and Git!
  
 * [Signing up for GitHub](https://github.com/dclegalhackers/dclegalhackathon/blob/master/GitHub101.md)
 * [GitHub Glossary](https://help.github.com/articles/github-glossary)
