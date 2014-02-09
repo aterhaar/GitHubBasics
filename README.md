@@ -11,5 +11,5 @@ Learn about using Git & GitHub
 * [Or Ask Ben!](https://github.com/benbalter/feedback)
 
 The DC Legal Hackers GitHub organization:  
- 1. We are [Legal Hackers](http://legalhackers.org/).  
+ 1. We are [Legal Hackers](http://legalhackers.org/). 
  2. We encourage you start projects within the DC Legal Hackers org. If you do, be sure to add a [MIT license](http://choosealicense.com/).
