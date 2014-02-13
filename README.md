@@ -8,7 +8,7 @@ GitHub Basics of DC Legal Hackers
  1. The DC Legal Hackers GitHub organization is an effort to house our DC Legal Hacker projects in one place for organized easy to find collaboration. If you start a project at a DC Legal Hackers event we encourage you to create those repos within the DC Legal Hackers GitHub organization. If you do, be sure to add a [MIT license](http://choosealicense.com/) under a text file labeled `LICENSE`.
  2. Alternatively consider: 
   * Including a link to your project on our website!  
-  * Creating your repo in an relevant DC GitHub organization:
+  * Creating your repo in a relevant DC GitHub organization:
     * [Code for DC](https://github.com/codefordc)
     * [Legal Hackers](https://github.com/legalhackers/) 
     * [Open DC Law](https://github.com/opendclaw)
